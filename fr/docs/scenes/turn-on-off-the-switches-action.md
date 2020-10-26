@@ -10,9 +10,9 @@ Dans Gladys, vous pouvez contrôler vos prises télécommandées, que ce soit su
 
 Nous verrons ici un exemple concret.
 
-Prenons les cafetière filtres très basique que l'on peut trouver dans le commerce pour une dizaine d'euro. Ces cafetières ont l'avantages d'avoir un bouton on/off physique, qui peut rester en position "allumé" permanente.
+Prenons les cafetières filtres très basique que l'on peut trouver dans le commerce pour une dizaine d'euro. Ces cafetières ont l'avantage d'avoir un bouton on/off physique, qui peut rester en position "allumé" permanente.
 
-Avec une prise télécommandées devant, il devient possible de contrôler la machine, et donc de faire du café sur commande !
+Avec une prise télécommandée devant, il devient possible de contrôler la machine, et donc de faire du café sur commande!
 
 ## Faire du café automatiquement tous les matins de la semaine avec Gladys
 
@@ -30,7 +30,7 @@ Dans Gladys, la scène va ressembler à ça:
 
 ![Faire du café automatiquement tous les matins de la semaine avec Gladys](/fr/img/docs/scenes/turn-on-off-the-switches-action/screenshot.png)
 
-Comme vous voulez le voir, il y a en premier un déclencheur qui se déclenche sur tous les jours de la semaine hors week-end (de lundi à vendredi).
+Comme vous poulez le voir, il y a en premier un déclencheur qui se déclenche tous les jours de la semaine hors week-end (du lundi au vendredi).
 
 Ensuite, la scène allume la prise, attend 30 secondes, puis éteins la prise.
 
