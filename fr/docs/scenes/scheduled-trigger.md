@@ -6,7 +6,7 @@ sidebar_label: Programmer une scène
 
 Il est récurrent en domotique de vouloir programmer une scène: tous les jours? une fois par jour? une fois par semaine? une fois par mois? Toutes les 15 minutes?
 
-Gladys proposer un déclencheur qui permet de programmer l'exécution d'une scène.
+Gladys propose un déclencheur qui permet de programmer l'exécution d'une scène.
 
 Il y a 5 types de programmations possibles:
 
@@ -38,9 +38,9 @@ Si vous voulez vous réveiller avec une scène personnalisées, tous les jours d
 
 ## Tous les jours
 
-Ce déclencheur vous permet de déclencher une scène tous les jours à un horaire précis.
+Ce déclencheur vous permet de déclencher une scène tous les jours à un horaire précise.
 
-Utile pour toutes les tâches récurrentes qui intervienne tous les jours de la semaine.
+Utile pour toutes les tâches récurrentes qui interviennent tous les jours de la semaine.
 
 ![Scène programmée tous les jours](/fr/img/docs/scenes/scheduled-trigger/scheduled-trigger-every-day.jpg)
 
